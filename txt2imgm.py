@@ -1,5 +1,3 @@
-# Install dependencies
-!pip install torch torchvision matplotlib
 
 import torch, torchvision
 from torchvision import transforms
